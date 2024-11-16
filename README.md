@@ -21,13 +21,13 @@
 
 📫 Let’s Connect
 
-    💌 Email: <a href=mailto:debreceni.sandor.controlling@gmail.com>email me</a>
+    💌 Email: mailto:debreceni.sandor.controlling@gmail.com
     🔗 [My LinkedIn Profile](https://www.linkedin.com/in/sandordebreceni/)
     🌟 [My GitHub Repositories](https://github.com/DebSaDE)
 
 😄 Fun Facts
 
-    🎵 I love analyzing everything (at this moment music playlists :D), or 👩‍🍳creating new recipes for dishes like [My recipes on Coopkad]([https://cookpad.com/hu/receptek/24251164-steak-zoldbors-kapri-martas-medley-zoldseg?ref=profile](https://cookpad.com/hu/felhasznalok/6629567)).
+    🎵 I love analyzing everything (at this moment music playlists :D), or 👩‍🍳creating new recipes for dishes like [My recipes on Coopkad](https://cookpad.com/hu/felhasznalok/6629567)).
     🌍 Exploring how data engineering can make the world better.
 
 <!---
