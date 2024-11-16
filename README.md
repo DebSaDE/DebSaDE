@@ -21,7 +21,7 @@
 
 📫 Let’s Connect
 
-    💌 Email: [email me](mailto:debreceni.sandor.controlling@gmail.com)
+    💌 Email: <a href=mailto:debreceni.sandor.controlling@gmail.com>email me</a>
     🔗 [My LinkedIn Profile](https://www.linkedin.com/in/sandordebreceni/)
     🌟 [My GitHub Repositories](https://github.com/DebSaDE)
 
